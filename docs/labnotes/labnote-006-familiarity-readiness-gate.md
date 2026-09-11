@@ -4,7 +4,7 @@
 
 **Status:** Complete; opportunity exists, but the lightweight readiness gate failed
 
-**Execution host:** `mpaiServer-8kl`
+**Execution environment:** local GPU workstation
 
 ## Question
 

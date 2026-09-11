@@ -6,7 +6,7 @@
 
 **Status:** Completed inference and oracle-synthesis run; listener evaluation pending
 
-**Execution host:** `mpaiServer-8kl`
+**Execution environment:** local GPU workstation
 
 ## Question
 

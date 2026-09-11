@@ -4,7 +4,7 @@
 
 **Status:** Complete; operational mechanism worked, selection advantage was not demonstrated
 
-**Execution host:** `mpaiServer-8kl`
+**Execution environment:** local GPU workstation
 
 ## Question
 
